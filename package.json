@@ -1,0 +1,11 @@
+{
+  "name": "roblox-in-roblox-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Restricted real-time color screen relay for a private Roblox experience",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": { "node": ">=20" }
+}
